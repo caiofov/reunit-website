@@ -1,1 +1,1 @@
-teste
+Projeto desenvolvido apenas para motivos de aprendizado (comecei a estudar HTML e CSS e resolvi colocar em prática), ou seja, nenhum direito reservado. Nenhum elemento pertence a mim: textos, fotografias, artes, fontes etc. O que fiz foi apenas colocar esses elementos no site que desenvolvi.
